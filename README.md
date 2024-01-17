@@ -4,8 +4,8 @@
 
   - [Active Directory Bulk User Creation]
   - [HackTheBox](https://github.com/anuanez02/HackTheBox)
-  - [EC-Council Digital Forensics Essentials - DFE v1]
-  - [Hello World!]
+  - [EC-Council Digital Forensics Essentials - DFE v1](https://github.com/anuanez02/DigitalForensicsEssentials)
+  - [Hello World!](https://github.com/anuanez02/HelloWorld)
 
 <h2>📜 Certifications:</h2>
 
