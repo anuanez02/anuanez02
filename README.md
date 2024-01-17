@@ -9,7 +9,7 @@
 
 <h2>📜 Certifications:</h2>
 
-- [Comptia Security+](https://www.comptia.org/certifications/security) 
+- [Comptia Security+](https://www.credly.com/badges/e8f7f0e2-0697-43ec-a7c5-e3a25b0ca8f9/public_url) 
 
 <h2> 🤳 Connect with me:</h2>
 
