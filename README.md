@@ -1,10 +1,17 @@
 <h1>Hi, I'm Alex! </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+ 
+  <b>PowerShell</b>
   - [Active Directory Bulk User Creation]
+    
+  <b>Pentesting</b>
   - [HackTheBox](https://github.com/anuanez02/HackTheBox)
+    
+  <b>Digital Forensics<b>
   - [EC-Council Digital Forensics Essentials - DFE v1](https://github.com/anuanez02/DigitalForensicsEssentials)
+    
+  <b>Python</b>
   - [Hello World!](https://github.com/anuanez02/HelloWorld)
 
 <h2>📜 Certifications:</h2>
