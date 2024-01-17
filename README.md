@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Bulk User Creation](https://github.com/anuanez02/HackTheBox)
-  - [HackTheBox]
+  - [Active Directory Bulk User Creation]
+  - [HackTheBox](https://github.com/anuanez02/HackTheBox)
   - [EC-Council Digital Forensics Essentials - DFE v1]
   - [Hello World!]
 
