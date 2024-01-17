@@ -1,10 +1,18 @@
-👋 Hi, I’m Alexander Nuanez
-👀 I’m an IT professional interested in Cyber Security
-📙 I currently have CompTIA's Security+ certification and have an AAS degree in Cyber Security
-📫 How to reach me: Email anuanez02@gmail.com or Phone # 720-532-4557
-⚡ Fun fact: My middle name is Anakin
+<h1>Hi, I'm Alex! </h1>
 
-<!---
-anuanez02/anuanez02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+  - [Active Directory Bulk User Creation]
+  - [HackTheBox]
+  - [EC-Council Digital Forensics Essentials - DFE v1]
+  - [Hello World!]
+
+<h2>📜 Certifications:</h2>
+
+- [Comptia Security+](https://www.comptia.org/certifications/security) 
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="AlexanderNuanez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/alexnuanez/
