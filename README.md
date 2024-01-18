@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
  
   <b>PowerShell</b>
-  - [Active Directory Bulk User Creation]
+  - [Active Directory Bulk User Creation](https://github.com/anuanez02/ActiveDirectory)
     
   <b>Pentesting</b>
   - [HackTheBox](https://github.com/anuanez02/HackTheBox)
